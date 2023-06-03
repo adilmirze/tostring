@@ -1,0 +1,15 @@
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\bin\Debug\net6.0\ToString.exe
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\bin\Debug\net6.0\ToString.deps.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\bin\Debug\net6.0\ToString.runtimeconfig.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\bin\Debug\net6.0\ToString.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\bin\Debug\net6.0\ToString.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.csproj.AssemblyReference.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.AssemblyInfoInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.AssemblyInfo.cs
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.csproj.CoreCompileInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\refint\ToString.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ToString.genruntimeconfig.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\ToString\ToString\obj\Debug\net6.0\ref\ToString.dll
